@@ -11,3 +11,5 @@ Menejar el 𝙪𝙨𝙚𝙍𝙚𝙙𝙪𝙘𝙚𝙧 es un gran ayuda , definiend
 Igual aqui se ocupo 𝙪𝙨𝙚𝙈𝙚𝙢𝙤 , 𝙪𝙨𝙚𝙎𝙩𝙖𝙩𝙚, 𝙪𝙨𝙚𝙀𝙛𝙛𝙚𝙘𝙩  este ultimo para poder manejar la información del 𝙡𝙤𝙘𝙖𝙡𝙎𝙩𝙤𝙧𝙖𝙜𝙚 y hacer persistente la información
 
 Asi mismo pasar las 𝙋𝙧𝙤𝙥𝙨  a componentes hijos para poder compartir información , poder manejarlas adecuadamente y tener componentes reutilizables.
+
+Tambien empezamos a trabajar  𝙁𝙤𝙧𝙢𝙪𝙡𝙖𝙧𝙞𝙤s y rescatar la información que nos proporciona los usuarios mediante el mismo, a validarlo y poder manejar estados de acuerdo a los cambios que sufre con 𝙤𝙣𝘾𝙝𝙖𝙣𝙜𝙚 y extrayendo su 𝙫𝙖𝙡𝙪𝙚 de cada 𝙞𝙣𝙥𝙪𝙩
