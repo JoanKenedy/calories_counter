@@ -2,7 +2,7 @@
 
 Este proyecto se trata de llevar un registro de calorias que consumes con la comida y pues la que quemas con el ejercicio y tener un resultado si tienes un deficit calorico o lo contrario no las quemaste.
 
-Esta hecho con 𝙍𝙚𝙖𝙘𝙩 𝙟𝙨 , 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙𝙨 𝙘𝙨𝙨
+Esta hecho con 𝙍𝙚𝙖𝙘𝙩 𝙟𝙨 , 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙑𝙞𝙩𝙚, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙𝙨 𝙘𝙨𝙨
 
 Lo nuevo de este proyecto se trabajo con 𝙪𝙨𝙚𝙍𝙚𝙙𝙪𝙘𝙚𝙧 que es más adecuado para una lógica de estado compleja a diferencia del 𝙪𝙨𝙚𝙎𝙩𝙖𝙩𝙚 que es mas simple por asi decirlo.
 
